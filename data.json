@@ -1,0 +1,29 @@
+{
+    "salesByCity": {
+        "Austin": 119113,
+        "Chicago": 102905,
+        "Los Angeles": 147968,
+        "Miami": 181731,
+        "New York": 424493,
+        "San Francisco": 80844,
+        "Seattle": 290383
+    }
+    ,
+    "quantityByCity": {
+        "Austin": 16697,
+        "Chicago": 14493,
+        "Los Angeles": 21443,
+        "Miami": 24282,
+        "New York": 59576,
+        "San Francisco": 10500,
+        "Seattle": 41168
+    },
+    "salesVsQuantity":
+        [{"label" :"Austin", "x" :119113, "y":16697 },
+         {"label" :"Chicago", "x" :102905, "y":14493},
+         {"label" :"Los Angeles", "x" :147968, "y":21443},
+         {"label" :"Miami", "x" :181731, "y":24282},
+         {"label" :"New York", "x" :424493, "y":59576},
+         {"label" :"San Francisco","x" :80844, "y":10500},
+         {"label" :"Seattle", "x" :290383, "y":41168}]
+}
